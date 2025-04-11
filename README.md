@@ -1,20 +1,18 @@
+G-FEIX COMPANY Website
 
-# G-FEIX COMPANY Website
+Welcome to the official website repository for G-FEIX COMPANY — a medical research company pioneering artificial intelligence in medicine.
 
-Welcome to the official website repository for **G-FEIX COMPANY** — a medical research company pioneering artificial intelligence in medicine.
 
-## 🚀 About
+G-FEIX COMPANY is a forward-thinking medical research organization focused on integrating artificial intelligence into the core of modern medicine. Our mission is to develop AI-powered solutions that support clinical decision-making, improve diagnostic accuracy, and advance personalized treatment strategies. We collaborate with healthcare professionals, institutions, and researchers to bridge the gap between technology and real-world medical impact.
 
-**G-FEIX COMPANY** is a forward-thinking medical research organization focused on integrating artificial intelligence into the core of modern medicine. Our mission is to develop AI-powered solutions that support clinical decision-making, improve diagnostic accuracy, and advance personalized treatment strategies. We collaborate with healthcare professionals, institutions, and researchers to bridge the gap between technology and real-world medical impact.
-
-## 📂 Project Structure
+ Project Structure
 
 - `index.html` — Main website file
 - (Optional) Add folders for assets like images or CSS in the future
 
 🌐 Live Site
 
-[https://yourusername.github.io/gfeix-website/](https://yourusername.github.io/gfeix-website/) *(Update this after publishing)*
+[https://yourusername.github.io/gfeix-website/](https://yourusername.github.io/gfeix-website/) (Update this after publishing)
 
  📫 Contact
 

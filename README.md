@@ -12,7 +12,7 @@ G-FEIX COMPANY is a forward-thinking medical research organization focused on in
 
 🌐 Live Site
 
-[https://yourusername.github.io/gfeix-website/](https://yourusername.github.io/gfeix-website/) (Update this after publishing)
+[https://nyarera.github.io/gfeix-website/](https://yourusername.github.io/gfeix-website/) (Update this after publishing)
 
  📫 Contact
 
